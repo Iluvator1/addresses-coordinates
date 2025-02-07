@@ -5,4 +5,5 @@
 2. Запустите программу
 
 **Пример использования**
+
 ![image](https://github.com/user-attachments/assets/076f88c5-d200-40b2-a602-1e5fbe368f4c)
