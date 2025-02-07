@@ -51,7 +51,7 @@ using (HttpClient client = new HttpClient())
     }
     catch (HttpRequestException e)
     {
-        // Обрабатываем исключения, связанного с HTTP-запросом
+        // Обрабатываем исключения, связанные с HTTP-запросом
         Console.WriteLine($"Ошибка HTTP запроса: {e.Message}");
     }
     catch (Exception e)
